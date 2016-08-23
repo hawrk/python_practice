@@ -1,7 +1,7 @@
 
 import urllib
 import urllib.request
-
+#python3
 
 sock = urllib.request.urlopen('http://www.baidu.com')
 
